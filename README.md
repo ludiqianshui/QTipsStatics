@@ -1,2 +1,3 @@
 # QTipsStatics
 QTipsStatics
+Django used
